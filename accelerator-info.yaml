@@ -1,0 +1,11 @@
+id: f94cd592-6898-4de4-8924-8b3abe472056
+timestamp: 2024-08-30T14:46:09.968Z
+source: TAP-GUI
+username: guest
+options:
+  projectName: csharp-weatherforecast
+  applicationName: ntt-csharp
+accelerator:
+  name: csharp-weatherforecast
+fragments:
+  - name: tap-workload
